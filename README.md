@@ -48,3 +48,7 @@ Developed an interactive Power BI dashboard to analyze Superstore sales performa
 - Superstore_Sales_Dataset.xlsx
 - Dashboard Screenshots
 - README.md
+# 👩‍💻 Connect With me
+
+- GitHub: https://github.com/gitasri-das
+- LinkedIn: www.linkedin.com/in/gitasri-das
